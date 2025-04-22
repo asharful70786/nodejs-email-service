@@ -1,0 +1,6 @@
+
+
+ //always make sure you have on 2FA for your email account
+ // scarch app password 
+   // set anyn name and copy the password (digit)
+
